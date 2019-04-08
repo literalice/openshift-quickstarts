@@ -1,0 +1,8 @@
+#!/bin/sh
+
+echo "Custome scripts"
+
+source /usr/local/s2i/assemble
+
+mvn --version
+
